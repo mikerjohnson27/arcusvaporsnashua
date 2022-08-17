@@ -1,0 +1,23 @@
+{
+  "name": "arcusvaporsnashua",
+  "version": "1.0.0",
+  "description": "Website for Arcus Vapors Located in Nashua, NH. A local business I wanted to help.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikerjohnson27/arcusvaporsnashua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikerjohnson27/arcusvaporsnashua/issues"
+  },
+  "homepage": "https://github.com/mikerjohnson27/arcusvaporsnashua#readme"
+}
