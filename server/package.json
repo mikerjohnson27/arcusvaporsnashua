@@ -8,6 +8,11 @@
     "watch": "nodemon",
     "seed": "node config/seeds.js"
   },
+  "eslintConfig": {
+    "extends": [
+      "server.js"
+    ]
+  },
   "keywords": [],
   "author": "Mike Johnson @ www.mikerjohnson.com",
   "license": "UNLICENSED",
@@ -20,6 +25,7 @@
     "mongoose": "^6.5.2"
   },
   "devDependencies": {
+    "eslint": "^8.22.0",
     "nodemon": "^2.0.19"
   }
 }
