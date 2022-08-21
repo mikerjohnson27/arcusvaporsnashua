@@ -1,0 +1,15 @@
+.nav{
+  background-color: orange;
+}
+.nav-link{
+  color: white;
+  font-weight: 500;
+}
+.nav-link:hover{
+  color: rgb(195, 195, 195);
+}
+.text-title{
+  display: inline-block;
+  justify-content: flex-end;
+  text-align: center;
+}
