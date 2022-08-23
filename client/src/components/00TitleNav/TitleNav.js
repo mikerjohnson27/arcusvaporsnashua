@@ -5,8 +5,8 @@ function TitleNav (){
     <Nav
     activeKey="/home"
     >
-      <Nav.Item>
-        <Nav.Link className="text-center" href="/home">Arcus Vapors</Nav.Link>
+      <Nav.Item className='title'>
+        <Nav.Link href="/home">Arcus Vapors</Nav.Link>
       </Nav.Item>
     </Nav>
   )

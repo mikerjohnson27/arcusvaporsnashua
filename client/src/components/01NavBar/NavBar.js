@@ -18,9 +18,6 @@ function NavBar() {
       <Nav.Item>
         <Nav.Link eventKey="link-2">Contact Us</Nav.Link>
       </Nav.Item>
-      <Nav.Item>
-        <Nav.Link className="text-title" href="/home">Arcus Vapors</Nav.Link>
-      </Nav.Item>
     </Nav>
   );
 }
